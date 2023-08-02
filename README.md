@@ -3,8 +3,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Always learning new technologies and developing software solutions, mostly on the Web and in Artificial Intelligence
-- 🎓 &nbsp; Studying science and technology at high school, both in French and Spanish
-- 💼 &nbsp; Collaborating as a software developper in different projects, such as a newspaper and the launching of a space probe.
+- 🎓 &nbsp; Studying mathematics degree at Universidad de Zaragoza
+- 💼 &nbsp; Collaborated as a software developper in different projects in Spain and France, such as a newspaper and the launching of a space probe.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
