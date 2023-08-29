@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Always learning new technologies and developing software solutions, mostly on the Web and in Artificial Intelligence
+- 🤔 &nbsp; Always learning new technologies and participating in new projects
 - 🎓 &nbsp; Studying mathematics degree at Universidad de Zaragoza
 - 💼 &nbsp; Collaborated as a software developper in different projects in Spain and France, such as a newspaper and the launching of a space probe
 
