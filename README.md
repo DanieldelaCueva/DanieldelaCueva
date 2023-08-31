@@ -5,6 +5,7 @@
 - 🤔 &nbsp; Always learning new technologies and participating in new projects
 - 🎓 &nbsp; Studying mathematics degree at Universidad de Zaragoza
 - 💼 &nbsp; Collaborated as a software developper in different projects in Spain and France, such as a newspaper and the launching of a space probe
+- 	:airplane: &nbsp; Sector editor for IVAO
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
