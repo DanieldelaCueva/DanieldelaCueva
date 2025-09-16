@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Always learning new technologies and participating in innovating projects
-- 🎓 &nbsp; Studying mathematics degree at Universidad de Zaragoza, in the branch of Computational Mathematics
+- 🎓 &nbsp; Studying mathematics degree at Universidad de Zaragoza ans Université Gustave Eiffel in Paris, in the branch of Applied and Computational Mathematics
 - 💼 &nbsp; Collaborated as a software developper in different projects in Spain and France, such as a the online paltform for a newspaper and the launching of a space probe
 - 	:airplane: &nbsp; Sector editor for IVAO
 
