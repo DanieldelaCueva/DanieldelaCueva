@@ -1,28 +1,21 @@
-<h2> Hey there! I'm Daniel.</h2>
+# Hey there! I'm Daniel.
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+## About Me
 
-- 🤔 &nbsp; Always learning new technologies and participating in innovating projects
-- 🎓 &nbsp; Studying a Mathematics degree at Universidad de Zaragoza and Université Gustave Eiffel in Paris, specializing in Statistics and Artificial Intelligence
-- 💼 &nbsp; Collaborated as a software developper in different projects in Spain and France, such as a the online paltform for a newspaper and the launching of a space probe
-- 	:airplane: &nbsp; Sector editor for IVAO
+- 🎓 **Mathematics Student** at Universidad de Zaragoza (Spain) and Université Gustave Eiffel (Paris), specializing in Statistics, Data Science, and Artificial Intelligence.
+- 💼 **Data Science Intern** at BNP Paribas, working on Large Language Models (LLMs), prompt engineering, and unstructured data preparation.
+- 🚀 **Background:** Experienced in Python-based backend development, database architecture, and data pipelines through collaborative academic and institutional projects.
+- ✈️ **In my free time:** Sector Editor for IVAO, combining my technical background with my passion for aviation simulation.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+---
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=arduino)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+## Tech Stack
+
+### Data Science & AI
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![LLMs](https://img.shields.io/badge/-Large%20Language%20Models-333333?style=flat&logo=openai)
+
+### Databases & Backend
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
