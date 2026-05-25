@@ -5,7 +5,7 @@
 - 🎓 **Mathematics Student** at Universidad de Zaragoza (Spain) and Université Gustave Eiffel (Paris), specializing in Statistics, Data Science, and Artificial Intelligence.
 - 💼 **Data Science Intern** at BNP Paribas, working on Large Language Models (LLMs), prompt engineering, and unstructured data preparation.
 - 🚀 **Background:** Experienced in Python-based backend development, database architecture, and data pipelines through collaborative academic and institutional projects.
-- ✈️ **In my free time:** Sector Editor for IVAO, combining my technical background with my passion for aviation simulation.
+- ✈️ **In my free time:** Sector Editor for IVAO and developer for Matemañicos, combining my technical background with my passion for aviation simulation and mathematics outreach.
 
 ---
 
